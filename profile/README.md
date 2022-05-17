@@ -7,7 +7,9 @@ We are a software development company
 We are a software development company oriented to the logistics and security of your assets, we offer GPS monitoring. In the Development area we started in 2020 and have been growing due to the quality and trust that we give to our clients. Regarding the Development of web and mobile applications, we make developments tailored to each client, we focus on B2B, especially in logistics and security developments
 
 *   🌍  I'm based in Mexico
-*   ✉️  You can contact me at [sudsolutionsmx@gmail.com](mailto:sudsolutionsmx@gmail.com)### Skills<p align="left">
+*   ✉️  You can contact me at [sudsolutionsmx@gmail.com](mailto:sudsolutionsmx@gmail.com)
+
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
